@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<packageId>springruse.NoPowerMachinery</packageId>
+	<name>NoPowerMachinery</name>
+	<author>springruse</author>
+	<supportedVersions>
+		<li>1.6</li>
+	</supportedVersions>
+	<description>Annoyed that the Machinery table always constantly uses power? Or you somehow don't have power?\n\nThis mod makes a non-powered machinery table that runs at 50%, and adds an extra recipe table to machinery and microelectronics.</description>
+</ModMetaData>
