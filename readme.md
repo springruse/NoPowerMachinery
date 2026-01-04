@@ -1,4 +1,4 @@
-# NoPowerMachinery
+# NoPoweredMachinery
 Adds a machinery table that runs at 50% at the cost of no power.
 
 ## Features
