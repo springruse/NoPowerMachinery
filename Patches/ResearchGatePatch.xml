@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+  <!-- Change advanced component research from Fabrication to MicroelectronicsBasics -->
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/RecipeDef[defName="Make_ComponentSpacer"]/researchPrerequisite</xpath>
+    <value>
+      <researchPrerequisite>MicroelectronicsBasics</researchPrerequisite>
+    </value>
+  </Operation>
+</Patch>
